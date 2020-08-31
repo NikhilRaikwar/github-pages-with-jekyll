@@ -1,3 +1,3 @@
-Hello My Name Is NIKHIL RAIKWAR.
+
 title: "THIS IS MY FIRST PROGRAMMING BLOG"
 date: 2020-08-31
